@@ -37,6 +37,9 @@ for more info https://github.com/rt2zz/redux-persist
 # react-native-store, react-native-db-model, react-native-simple-store
 These are all wrapper on Asyncstorage as well, react-native-db-model is the wrapper on react-native-store.
 react-native-simple-store is the minimal wrapper on react native asyncstorage.
+read more 
+https://github.com/thewei/react-native-store
+https://github.com/darkrishabh/react-native-db-models
 https://github.com/jasonmerino/react-native-simple-store
 
 
