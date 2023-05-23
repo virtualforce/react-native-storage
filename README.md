@@ -50,7 +50,6 @@ https://github.com/jasonmerino/react-native-simple-store
 Realm React Native enables you to efficiently write your app’s model layer in a safe, persisted and fast way. Here’s what it looks like: See Realm React Native and Docs For Realm
 read more
 https://realm.io/news/introducing-realm-react-native/
-https://realm.io/news/introducing-realm-react-native/
 
 # react-native-local-mongodb
 Embedded persistent or in memory database for react-native. API is a subset of MongoDB's (NeDB) and it's plenty fast.
